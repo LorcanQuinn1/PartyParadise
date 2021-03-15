@@ -15,6 +15,7 @@ Purpose
 Experience for Students
 
 Students go to university for much more than just studying there subject. To name a few:
+
 	•	Make new friends.
 	•	Meet likeminded people.
 	•	Develop and grow personal skills.

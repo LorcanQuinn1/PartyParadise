@@ -1,4 +1,6 @@
 # Party-Paradise
+![Screenshot 2021-02-01 at 16 59 04](https://user-images.githubusercontent.com/36154051/111180069-953f0c80-85a4-11eb-8ac4-8d4071cf1581.png)
+
 
 Party Paradise is a Travel Agency business specifically for students to travel abroad more affordably, gain new experiences and meet new people.
 
